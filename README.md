@@ -1,4 +1,4 @@
-# -_megemini-
+# megemini
 瑞金医院知识图谱大赛总决赛第四名比赛攻略_megemini队
 
 复赛代码：
